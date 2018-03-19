@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Light night", "Light night.csproj", "{AE0F400F-6C29-6249-FE93-7F65008CC942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Light night.Editor", "Light night.Editor.csproj", "{7F0FCDE9-B7E5-D630-C1E6-A6E06766BA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0F400F-6C29-6249-FE93-7F65008CC942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0F400F-6C29-6249-FE93-7F65008CC942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0F400F-6C29-6249-FE93-7F65008CC942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0F400F-6C29-6249-FE93-7F65008CC942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0FCDE9-B7E5-D630-C1E6-A6E06766BA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0FCDE9-B7E5-D630-C1E6-A6E06766BA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0FCDE9-B7E5-D630-C1E6-A6E06766BA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0FCDE9-B7E5-D630-C1E6-A6E06766BA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

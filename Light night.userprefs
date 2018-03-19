@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Zelda-Like\Script\rotationcrystal.cs">
+    <Files>
+      <File FileName="Assets\Zelda-Like\Script\ColliderTrigger.cs" Line="16" Column="2" />
+      <File FileName="Assets\Zelda-Like\Script\reflect.cs" Line="19" Column="4" />
+      <File FileName="Assets\Zelda-Like\Script\Collider2.cs" Line="33" Column="21" />
+      <File FileName="Assets\Zelda-Like\Script\rotationcrystal.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,1162 @@
+fileFormatVersion: 2
+guid: fa964d7624a0474478653de340037249
+timeCreated: 1521284229
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: P_IDLE_Cristal_21x47_0
+    21300002: P_IDLE_Cristal_21x47_1
+    21300004: P_IDLE_Cristal_21x47_2
+    21300006: P_IDLE_Cristal_21x47_3
+    21300008: P_IDLE_Cristal_21x47_4
+    21300010: P_IDLE_Cristal_21x47_5
+    21300012: P_IDLE_Cristal_21x47_6
+    21300014: P_IDLE_Cristal_21x47_7
+    21300016: P_IDLE_Cristal_21x47_8
+    21300018: P_IDLE_Cristal_21x47_9
+    21300020: P_IDLE_Cristal_21x47_10
+    21300022: P_IDLE_Cristal_21x47_11
+    21300024: P_IDLE_Cristal_21x47_12
+    21300026: P_IDLE_Cristal_21x47_13
+    21300028: P_IDLE_Cristal_21x47_14
+    21300030: P_IDLE_Cristal_21x47_15
+    21300032: P_IDLE_Cristal_21x47_16
+    21300034: P_IDLE_Cristal_21x47_17
+    21300036: P_IDLE_Cristal_21x47_18
+    21300038: P_IDLE_Cristal_21x47_19
+    21300040: P_IDLE_Cristal_21x47_20
+    21300042: P_IDLE_Cristal_21x47_21
+    21300044: P_IDLE_Cristal_21x47_22
+    21300046: P_IDLE_Cristal_21x47_23
+    21300048: P_IDLE_Cristal_21x47_24
+    21300050: P_IDLE_Cristal_21x47_25
+    21300052: P_IDLE_Cristal_21x47_26
+    21300054: P_IDLE_Cristal_21x47_27
+    21300056: P_IDLE_Cristal_21x47_28
+    21300058: P_IDLE_Cristal_21x47_29
+    21300060: P_IDLE_Cristal_21x47_30
+    21300062: P_IDLE_Cristal_21x47_31
+    21300064: P_IDLE_Cristal_21x47_32
+    21300066: P_IDLE_Cristal_21x47_33
+    21300068: P_IDLE_Cristal_21x47_34
+    21300070: P_IDLE_Cristal_21x47_35
+    21300072: P_IDLE_Cristal_21x47_36
+    21300074: P_IDLE_Cristal_21x47_37
+    21300076: P_IDLE_Cristal_21x47_38
+    21300078: P_IDLE_Cristal_21x47_39
+    21300080: P_IDLE_Cristal_21x47_40
+    21300082: P_IDLE_Cristal_21x47_41
+    21300084: P_IDLE_Cristal_21x47_42
+    21300086: P_IDLE_Cristal_21x47_43
+    21300088: P_IDLE_Cristal_21x47_44
+    21300090: P_IDLE_Cristal_21x47_45
+    21300092: P_IDLE_Cristal_21x47_46
+    21300094: P_IDLE_Cristal_21x47_47
+    21300096: P_IDLE_Cristal_21x47_48
+    21300098: P_IDLE_Cristal_21x47_49
+    21300100: P_IDLE_Cristal_21x47_50
+    21300102: P_IDLE_Cristal_21x47_51
+    21300104: P_IDLE_Cristal_21x47_52
+    21300106: P_IDLE_Cristal_21x47_53
+    21300108: P_IDLE_Cristal_21x47_54
+    21300110: P_IDLE_Cristal_21x47_55
+    21300112: P_IDLE_Cristal_21x47_56
+    21300114: P_IDLE_Cristal_21x47_57
+    21300116: P_IDLE_Cristal_21x47_58
+    21300118: P_IDLE_Cristal_21x47_59
+    21300120: P_IDLE_Cristal_21x47_60
+    21300122: P_IDLE_Cristal_21x47_61
+    21300124: P_IDLE_Cristal_21x47_62
+    21300126: P_IDLE_Cristal_21x47_63
+    21300128: P_IDLE_Cristal_21x47_64
+    21300130: P_IDLE_Cristal_21x47_65
+    21300132: P_IDLE_Cristal_21x47_66
+    21300134: P_IDLE_Cristal_21x47_67
+    21300136: P_IDLE_Cristal_21x47_68
+    21300138: P_IDLE_Cristal_21x47_69
+    21300140: P_IDLE_Cristal_21x47_70
+    21300142: P_IDLE_Cristal_21x47_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 141
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 94
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_66
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_67
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_68
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: P_IDLE_Cristal_21x47_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

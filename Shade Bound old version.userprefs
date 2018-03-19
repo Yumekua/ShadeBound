@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Zelda-Like\Script\folder\Lux.cs">
+    <Files>
+      <File FileName="Assets\Zelda-Like\Script\folder\ArbreTombre.cs" Line="60" Column="43" />
+      <File FileName="Assets\Zelda-Like\Script\folder\Lux.cs" Line="103" Column="3" />
+      <File FileName="Assets\Zelda-Like\Script\folder\Deplacement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Zelda-Like\Script\folder\Monster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Zelda-Like\Script\folder\MonsterCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Zelda-Like\Script\folder\death.cs" Line="19" Column="3" />
+      <File FileName="Assets\Unity Data Dome Package\Demo\DemoControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Unity Data Dome Package\DomeProjection\DomeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Zelda-Like\Script\folder\aparitionD.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

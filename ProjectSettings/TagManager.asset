@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - curseur
+  - deadTrigger
+  - onlyTrigger
+  - obstacle
+  - death
+  - monster
+  - layer-
+  - player
+  - playerF
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Curseur
+  - yolo
+  - LUX
+  - lux2
+  - LUX2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 331492899
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4284303107
+    locked: 0
+  - name: haut arbre
+    uniqueID: 923508505
+    locked: 0
+  - name: ui
+    uniqueID: 1161279375
+    locked: 0

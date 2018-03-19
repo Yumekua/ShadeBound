@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Zelda-Like/Scenes/Prefabs Final.unity
+  isLoaded: 1
+  isActive: 1
